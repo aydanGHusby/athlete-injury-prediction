@@ -3,7 +3,7 @@
 A 4-week mini project from the Biotech Club at UT Dallas that predicts the injury risk of collegiate athletes based on factors like age, ACL risk score, training intensity, games per week, and more.
 
 ## What I Learned
-Through this project, I deepened my understanding of machine learning and data science, including:
+Through this project, I learned more about machine learning and data science; throughout the project, learned:
 * How to use prediction models like Logistic Regression and Decision Trees, and when to apply each
 * How to work with DataFrames using Pandas
 * How to visualize data using matplotlib and seaborn
